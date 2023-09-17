@@ -34,4 +34,4 @@ The project has the following features:
 
 This project is an excellent opportunity to familiarize yourself with the Nest.Js framework, as well as understand important concepts of building Restful APIs. Through the use of custom decorators for data validation, it is possible to avoid errors and ensure the consistency of information provided by users.
 
-Keep in mind that this is a study project, and for production scenarios it is recommended to use a database to store user and product information. We hope this application is useful for your journey of learning Nest.Js and developing robust and efficient APIs.
+Keep in mind that this is a study project, and for production scenarios it is recommended to use a database to store user and product information. We hope this application is useful for your journey of learning Nest.Js and developing robust and efficient APIs...
